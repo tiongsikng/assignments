@@ -4,8 +4,8 @@ Assignments done throughout Ph. D. course
 ### Neural Networks
 * `NN_Assignment_1.ipynb` - Drop wave cosine function approximation using linear regression.
 * `NN_Assignment_2.ipynb` - CNN training implementation on CIFAR-10 dataset.
-* `NN_Assignment2_1.ipynb` - Transfer learning using CIFAR-10 pretrained model on face dataset.
-* `NN_Assignment2_2.ipynb` - LSTM implementation to predict bitcoin closing price.
+* `NN_Assignment2_1.ipynb` - Transfer learning using CIFAR-10 pretrained model on face dataset. Face dataset is in `face.zip`.
+* `NN_Assignment2_2.ipynb` - LSTM implementation to predict bitcoin closing price. The dataset is in `btc.csv`.
 
 ### Digital Image Processing
 * `Homework_1.ipynb` - Image DFT in 8x8 blocks, then performing subsampling and interpolation.
