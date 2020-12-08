@@ -1,5 +1,5 @@
 # assignments
-Assignments done throughout Ph. D. course at Yonsei University. Codes may not be perfect according to the description.
+Assignments done throughout Ph. D. course at Yonsei University. Codes may not be perfect according to the description. Reports are available upon request.
 
 ### Neural Networks
 * `NN_Assignment_1.ipynb` - Drop wave cosine function approximation using linear regression.
