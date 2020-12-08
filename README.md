@@ -1,5 +1,5 @@
 # assignments
-Assignments done throughout Ph. D. course at Yonsei University
+Assignments done throughout Ph. D. course at Yonsei University. Codes may not be perfect according to the description.
 
 ### Neural Networks
 * `NN_Assignment_1.ipynb` - Drop wave cosine function approximation using linear regression.
@@ -10,17 +10,23 @@ Assignments done throughout Ph. D. course at Yonsei University
 ### Digital Image Processing
 * `Homework_1.ipynb` - Image DFT in 8x8 blocks, then performing subsampling and interpolation.
 * `Homework_2.ipynb` - Discrete Cosine Transformation (DCT), Singular Value Decomposition (SVD), Karhunen-Loeve Transform (KLT).
-* `Homework_3.ipynb` - Image Differential Pulse Code Modulation (DPCM) and Lloyd-Max Quantization.
+* `Homework_3.ipynb` - Image Differential Pulse Code Modulation (DPCM) and Lloyd-Max Quantization. _(Huffman Coding Incomplete)_.
 * `Homework_4.ipynb` - Implementation of median filter and FIR filter, specifically using Hamming Window.
 * `Homework_5.ipynb` - Image Gamma Correction, Histogram Equalization, conversion to YCrCb format.
 * `Homework_6.ipynb` - Inverse filter, Wiener filter, constrained matrix inversion filter.
 * `Homework_7.ipynb` - Image segmentation, object and edge detection.
 
 ### Random Process
-* `llgc.ipynb` - Implementation of Learning with Local and Global Consistency (LLGC) on two-spirals dataset. The LLGC paper is in this [website](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LLGC.pdf).
+* `llgc.ipynb` - Implementation of Learning with Local and Global Consistency (LLGC) on two-spirals dataset. The LLGC paper is in [this website](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LLGC.pdf).
 
 ### Special Topics in Deep Learning
+*
+*
+*
+*
 
 ### Transform Theory
+*
 
 ### Machine Learning 1
+*
