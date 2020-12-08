@@ -1,5 +1,5 @@
 # assignments
-Assignments done throughout Ph. D. course
+Assignments done throughout Ph. D. course at Yonsei University
 
 ### Neural Networks
 * `NN_Assignment_1.ipynb` - Drop wave cosine function approximation using linear regression.
@@ -18,3 +18,9 @@ Assignments done throughout Ph. D. course
 
 ### Random Process
 * `llgc.ipynb` - Implementation of Learning with Local and Global Consistency (LLGC) on two-spirals dataset. The LLGC paper is in this [website](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LLGC.pdf).
+
+### Special Topics in Deep Learning
+
+### Transform Theory
+
+### Machine Learning 1
