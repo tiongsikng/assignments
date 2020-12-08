@@ -8,12 +8,12 @@ Assignments done throughout Ph. D. course at Yonsei University. Codes may not be
 * `NN_Assignment2_2.ipynb` - LSTM implementation to predict bitcoin closing price. The dataset is in `btc.csv`.
 
 ### Digital Image Processing
-* `Homework_1.ipynb` - Image DFT in 8x8 blocks, then performing subsampling and interpolation.
-* `Homework_2.ipynb` - Discrete Cosine Transformation (DCT), Singular Value Decomposition (SVD), Karhunen-Loeve Transform (KLT).
+* `Homework_1.ipynb` - Image Discrete Fourier Transform (DFT) in 8x8 blocks, then performing subsampling and interpolation.
+* `Homework_2.ipynb` - Discrete Cosine Transform (DCT), Singular Value Decomposition (SVD), Karhunen-Loeve Transform (KLT).
 * `Homework_3.ipynb` - Image Differential Pulse Code Modulation (DPCM) and Lloyd-Max Quantization. _(Huffman Coding Incomplete)_.
-* `Homework_4.ipynb` - Implementation of median filter and FIR filter, specifically using Hamming Window.
+* `Homework_4.ipynb` - Implementation of median filter and FIR filter, specifically using Hamming Window to denoise images with different types of noise.
 * `Homework_5.ipynb` - Image Gamma Correction, Histogram Equalization, conversion to YCrCb format.
-* `Homework_6.ipynb` - Inverse filter, Wiener filter, constrained matrix inversion filter.
+* `Homework_6.ipynb` - Inverse filter, Wiener filter, constrained matrix inversion filter to deblur cylindrical boundary blurred and Gaussian blurred images.
 * `Homework_7.ipynb` - Image segmentation using mean values and Otsu thresholding, object and edge detection using Sobel and Canny filters.
 
 ### Random Process
