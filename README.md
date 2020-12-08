@@ -14,10 +14,10 @@ Assignments done throughout Ph. D. course at Yonsei University. Codes may not be
 * `Homework_4.ipynb` - Implementation of median filter and FIR filter, specifically using Hamming Window.
 * `Homework_5.ipynb` - Image Gamma Correction, Histogram Equalization, conversion to YCrCb format.
 * `Homework_6.ipynb` - Inverse filter, Wiener filter, constrained matrix inversion filter.
-* `Homework_7.ipynb` - Image segmentation, object and edge detection.
+* `Homework_7.ipynb` - Image segmentation using mean values and Otsu thresholding, object and edge detection using Sobel and Canny filters.
 
 ### Random Process
-* `llgc.ipynb` - Implementation of Learning with Local and Global Consistency (LLGC) on two-spirals dataset. The LLGC paper is in [this website](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LLGC.pdf).
+* `llgc.ipynb` - Implementation of Learning with Local and Global Consistency (LLGC) on two-spirals dataset. The LLGC paper is in [this website](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LLGC.pdf), while the code implementation is based on [this Git](https://github.com/provezano/lgc).
 
 ### Special Topics in Deep Learning
 *
