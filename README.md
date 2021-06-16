@@ -28,3 +28,7 @@ Assignments done throughout Ph. D. course at Yonsei University. Codes may not be
 
 ### Machine Learning 1 (ML)
 * `machine_learning.ipynb` - Implement a simple CNN for classification on CIFAR-10 dataset.
+
+### Special Topics in Pattern Recognition (STPR)
+* `STPR_Homework_1.ipynb` - Implementation of Linear and [Multinomial](https://ieeexplore.ieee.org/document/1288524) regressions on a two-class multivariate Gaussian dataset. The boundary line for the multinomial regression (5th order) is not optimal, and weight dimension reduction has to be performed.
+* `STPR_Homework_2.ipynb` - Implementation of LSE-Linear, LSE-RM (as in Homework 1#), and [TER-RM](https://ieeexplore.ieee.org/document/4359345/) classification on Iris, Mushroom, and Optical Recognition of Handwritten Digits dataset. The data preprocessing are extracted manually using Python scripts (though it is simpler to do so using [Pandas](https://pandas.pydata.org/) library). The TER-RM performs classification on positive and negative (subject to that certain) classes, and relies on one-versus-all classification technique.
